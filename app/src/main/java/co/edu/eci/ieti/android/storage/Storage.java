@@ -12,7 +12,7 @@ import co.edu.eci.ieti.android.network.data.Token;
 public class Storage
 {
 
-    private final String TOKEN_KEY = "TOKEN_KEY";
+    private final String TOKEN_KEY = "miLlaveDelToken";
 
     private final SharedPreferences sharedPreferences;
 
